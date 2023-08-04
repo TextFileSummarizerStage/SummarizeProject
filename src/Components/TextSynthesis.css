@@ -4,7 +4,8 @@
 body {
   margin: 0; 
   padding: 0; 
-  background-image: url('C:/Users/DELL/Desktop/summarize_project/app/images/front.jpg'); 
+  background-image: url('../../images/front.jpg'); 
+  /* background-image: url('C:/Users/DELL/Desktop/summarize_project/app/images/front.jpg');  */
   background-size: cover; 
   background-repeat: no-repeat; 
   background-position: center; 
