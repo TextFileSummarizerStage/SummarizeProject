@@ -1,0 +1,536 @@
+6146 
+Biochemistry 1981, 20, 6146-6149 
+Carboxy-Terminal Amino Acid Sequence of a Human Fibrinogen y-Chain 
+Variant ( T I ) +  
+Carlota Wolfenstein-Todel* and Michael W. Mosesson**§ 
+ABSTRACT: A normal human fibrinogen y-chain variant, 
+termed y’, is larger than the y chain (5 1 500 vs. 49 500) due 
+to an extended COOH-terminal sequence. The extended 
+COOH-terminal cyanogen bromide peptide (CNBr e’) was 
+isolated by high-pressure liquid chromatography, and its amino 
+acid sequence was determined. Comparison with the corre- 
+sponding COOH-terminal y-chain peptide (CNBr e) showed 
+that the last four amino acids of the y chain were replaced 
+in y’ chains by a 20-residue fragment rich in aspartic and 
+glutamic acids, having the sequence Val-Tyr-Pro-Glu-His- 
+R e c e n t  reports indicate that a human fibrinogen y-chain 
+variant, termed y’ (Mosesson et al., 1972), has a higher mo- 
+lecular weight than the y chain (5 l 500 vs. 49 500) (Wolfen- 
+stein-Todel & Mosesson, 1980; Francis et al., 1980) due to 
+an extended COOH-terminal amino acid sequence (Wolfen- 
+stein-Todel & Mosesson, 1980). The y’ chains are more 
+negatively charged than y chains and are separable by gel 
+electrophoresis at pH 8.6 or 2.7 (Mosesson et al., 1972), by 
+isoelectric focusing, or by ion-exchange chromatography 
+(Stathakis et al., 1978). There are no significant differences 
+in their sialic acid or phosphorus contents (Finlayson & 
+Mosesson, 1963; Mosesson & Finlayson, 1963). 
+The variant y’ chains are functionally normal with respect 
+to cross-linking in the presence of factor XIIla and undergo 
+this process nonselectively with respect to y and y’ chains 
+(Wolfenstein-Todel & Mosesson, 1980). Analyses of S- 
+carboxymethyl derivatives of y and y’ chains that had been 
+labeled with dansylcadaverine indicated that the glutamine 
+cross-linking receptor site and the lysine cross-linking donor 
+site were the same in both types of chains. Available data also 
+indicated that the sequence of the y’ chain was the same as 
+that of the y chain from the NH2 terminus to at least as far 
+as the terminal five amino acids of the y chain. 
+Earlier analyses of mutant y chains (y Paris I) from a 
+congenitally dysfunctional fibrinogen molecule (fibrinogen 
+Paris I) showed that both y and y’ features were expressed 
+in the mutant y chains (Stathakis et al., 1978), a finding 
+suggesting that y and y‘ chains had been produced from a 
+single gene. Thus, our speculations regarding peptide pro- 
+cessing events that could lead to the formation of these variant 
+chains included the possibilities that y’ chains represent (a) 
+a naturally occurring “read through“ protein (Korner et al., 
+1979) or (b) an incompletely processed precursor of the y 
+‘From the Department of Medicine, State University of New York 
+Downstate Medical Center, Brooklyn, New York 11203. Received May 
+4, 2981. Supported by National Institutes of Health Grant HL-17419. 
+This work was presented in part at the 65th Annual Meeting of the 
+Federation of American Societies for Experimental Biology, Atlanta, GA, 
+April 1981 (Wolfenstein-Todel & Mosesson, 1981). 
+*Present address: Facultad de Farmacia y Bioquimica, UniversitZ de 
+Buenos Aires, Buenos Aires, Argentina. 
+8 Address correspondence to this author at the Department of Medi- 
+cine, Mt. Sinai Medical Center. Milwaukee, W1 53201 
+Pro-Ala-Glx-Thr-Glx-Tyr-Asx-Ser-Leu-Arg-Pro-Glx-Asx- 
+Asx-Leu. Mutant y chains (y Paris I) from a congenitally 
+dysfunctional fibrinogen molecule (fibrinogen Paris I) express 
+both y and y’ features, suggesting that both y and y’ chains 
+are produced from a single gene. If this suggestion is correct, 
+the observed differences in amino acid sequence could be 
+explained by the existence of different mRNAs for y and y’ 
+chains, respectively, which are transcribed from one gene by 
+differential RNA splicing. 
+chain. In order to examine these possibilities and others, we 
+determined the amino acid sequence unique to the y’ chain. 
+Materials and Methods 
+Plasma fibrinogen fraction 1-4 (Blomback & Blomback, 
+1956) (thrombin clottability >95%), the y-chain population 
+of which is comprised of approximately 7-10% y’ chains 
+(Mosesson et al., 1972), was prepared as previously described 
+(Mosesson & Sherry, 1966). Reduction and S-carboxy- 
+methylation were carried out as previously reported (Galanakis 
+et al., 1978), and the S-CM’ y and y’ chains were isolated 
+by DEAE-cellulose gradient elution chromatography in 8 M 
+urea at pH 7.0 (Stathakis et al., 1978). CNBr cleavage of 
+S-CM peptides was carried out as described by Gross & 
+Witkop (1962). The CNBr digests were subjected to gel- 
+sieving chromatography at room temperature on a column (1.5 
+X 90 cm) of Sephadex G-75 that had been equilibrated and 
+developed with 10% formic acid. The flow rate was 6.2 mL/h, 
+and fractions of 2.4 mL were collected. 
+HPLC was performed with equipment from Waters Asso- 
+ciates (Milford, MA). It included two M-6000A pumps, one 
+M-660 solvent programmer, a U6K universal liquid chroma- 
+tography injector, and an M-450 variable wavelength detector 
+attached to an Omni-Scribe recorder (Houston Instruments, 
+Austin, TX). Peptide samples were subjected to chromatog- 
+raphy at room temperature at a flow rate of 2 mL/min on a 
+Waters pBondapak C-18 column (30 X 0.4 cm) using aceto- 
+nitrile (HPLC grade; Fisher Scientific Co., Fair Lawn, NJ) 
+for developing the column under isocratic or linear gradient 
+conditions. All eluting solutions contained 0.1% phosphoric 
+acid (Hancock et al., 1978), and the samples themselves were 
+also dissolved in 0.1% phosphoric acid. The peptides eluting 
+from the column were detected by their absorbance at 225 nm, 
+pooled appropriately, freeze-dried, and then desalted by 
+chromatography at room temperature on a column of Seph- 
+adex G-15 (1.8 X 27 cm) that had been equilibrated and 
+developed with 10% formic acid at a flow rate of 36 mL/h. 
+’ Abbreviations used: CM, carboxymethyl; CNBr, cyanogen bromide; 
+HPLC, high-pressure liquid chromatography; PTH, phenylthiohydantoin; 
+ACFS, absorbance unit full scale; dansyl, 5-(dimethylarnino)- 
+naphthalene-1-sulfonyl; DEAE, diethylaminoethyl; TPCK, r-1-(tosyl- 
+amido)-2-phenylethyl chloromethyl ketone. 
+0006-2960/8 1 /0420-6146$01.25/0 C 198 1 American Chemical Society 
+F I B R I N O G E N  y - C H A I N  V A R I A N T  
+V O L .  2 0 ,  N O .  2 1 ,  1 9 8 1  
+6147 
+I 
+10 
+20 
+30 40 
+50 
+60 70 
+TUBE NO 
+FIGURE 1: Sephadex G-75 chromatography (1.5 X 90 cm wlumn) 
+of a CNBr digest (25 mg) of y and y‘ chains, respectively. The 
+samples were applied to the column in 2 mL of 10% formic acid, and 
+the column was then developed with the same solvent at a flow rate 
+of 6.2 mL/h: fractions of 2.4 mL were collected. The pooling of 
+fractions of interest (Le., peak 111) is indicated by the shaded areas. 
+Tryptic digestion of peptides was performed with TPCK- 
+treated trypsin (Worthington Biochemical Corp., Freehold, 
+NJ) in 0.2 M ammonium bicarbonate buffer, pH 8.0, for 6 
+h at 37 OC, at an enzymesubstrate ratio of 150. The digest 
+was then freeze-dried. 
+Amino acid analysis was carried out with a JEOL amino 
+acid analyzer, Model JLC-6AH, on peptides that had been 
+hydrolyzed in evacuated and sealed tubes for 20 h with 5.7 
+N HCI containing 0.1% phenol. Numerical values for each 
+amino acid were generally expressed in terms of residues per 
+peptide. 
+NH,-terminal analysis was performed by an adaptation 
+(Mosesson et al., 1973) of the dansyl chloride method of Gray 
+& Hartley (1963). NH,Terminal 
+sequence analysis by Ed- 
+man degradation was performed manually (Gray, 1972) with 
+dansylation of aliquot fractions to label and identify the 
+NH,-terminal residues at each step. PTH-glutamic acid and 
+PTH-glutamine were distinguished by thin-layer chromatog- 
+raphy as described by Summers et al. (1973). 
+Results 
+There were no apparent differences in the elution profiles 
+obtained by Sephadex G-75 chromatography of CNBr digests 
+of y and y’ chains, respectively (Figure I). The peak con- 
+taining the COOH-terminal peptide of the y chain (peak 111) 
+(Sharp et al., 1972; Henschen et al., 1976) and the corre- 
+sponding peak obtained from the y’ chain were freeze-dried. 
+The peptides contained in these fractions were first compared 
+by HPLC by using a linear gradient of acetonitrile (1&45%) 
+containing 0.1% phosphoric acid (data not shown). From this 
+~. 
+0 1  i ; i h ~ ~ + i ~ i ~ i i z i 3 i 4  
+475% CH5CN 
+225% CHsCN 
+TIME (MINUTES) 
+FIGURE 2 HPLC of chromatographic peaks 111 from experiments 
+shown in Figure I .  Eighty microliters of sample (5 mg/mL) was 
+applied to a pBondapak C-18 column. The mobile phase was 22.5% 
+acetonitrile and 0.1% phosphoric acid, followed by a wash of 41.5% 
+acetonitrile and 0.1 phosphoric acid, The pooling of fractions of interest 
+is indicated by the shaded areas. Pressure, 1400 psi; flow rate, 2 
+mL/min: UV detector, 225 nm: AUFS, I. 
+preliminary procedure we selected 22.5% acetonitrile and 0.1% 
+phosphoric acid as the eluant for isocratic chromatography 
+of the COOH-terminal CNBr peptide of the y’chain (Figure 
+2). As assessed by comparison with the chromatogram of 
+peak I11 of the CNBr y chains, peaks 1-4 were unique to y’. 
+Since amino acid analyses of material from each peak were 
+virtually the same, we have designated them collectively as 
+CNBr e’ (Table I). 
+(Sequence analysis was performed on 
+pools of peaks 2 and 3, whereas tryptic digestion was carried 
+out on a pool of all four peaks.) 
+The sequence of the first 30 amino acids of CNBr e’ was 
+determined by dansyl-Edman degradation (we observed a 
+“gap” at position 25). The first 23 residues were identical with 
+those of CNBr e (Sharp et al., 1972; Takagi & Doolittle, 
+1975). Amides in these first 23 residues of CNBr e’ were 
+assigned by analogy with the established sequence of CNBr 
+e and from the observation that tryptic peptide Tc (Table I) 
+from y’ chains behaved in the same way in fingerprint analysis 
+as the corresponding y-chain peptide (Wolfenstein-Todel & 
+Mosesson, 1980). 
+CNBr e’ was digested with trypsin, and the resulting pep- 
+tides were subjected to HPLC by using gradient elution from 
+12.5% to 45% acetonitrile (Figure 3). 
+The peptides that 
+emerged were labeled in order of their elution and were des- 
+ignated Ta, Tb, etc. Peptide Tb was not pure; peptides Td 
+6148 
+Table 1: Amino Acid Composition of CNBr e’ and 
+Tryptic Peptidesa 
+B I O C  H E M I ST R Y 
+____ 
+____I______-_ 
+peptide 
+aminoacid CNBre‘ Ta 
+Tc 
+Tf 
+Tg 
+Th 
+Ti 
+W O L F E N S T E I N - T O D E L  A N D  M O S E S S O N  
+1.9 
+1.0 
+1 .o 
+His 
+2.0 
+1.0 
+1.2 
+A rg 
+1.9 
+1.0 
+1.0 
+0.8 
+Lys 
+3.0 
+Asp 
+4.0 
+1.0 
+2.1 
+3.0 
+Thr 
+2.0 
+0.9 
+0.9 
+0.9 
+S er 
+1.1 
+1.2 
+1.3 
+Glu 
+8.1 
+3.0 
+4.6 
+4.9 
+Pro 
+3.8 
+2.9 
+1.2 
+3.0 
+1.2 
+Gly 
+4.3 
+3.9 
+Ala 
+2.1 
+1.0 
+1.0 
+0.9 
+Val 
+0.9 
+0.9 
+1.0 
+I le 
+1.7 
+0.7 
+1.1 
+0.9 
+Leu 
+3.5 
+1.8 
+1.7 
+1.6 
+r y r  
+1.9 
+1.6 
+1.6 
+Phe 
+0.9 
+0.8 
+1.0 
+‘1. 
+43 
+2 
+15 
+21 
+5 
+21 
+4 
+NH,- 
+Lys 
+Asx 
+Leu 
+Glx 
+Lys 
+NDC 
+ND 
+terminal 
+residue 
+a Values for each residue are expressed as the number per pep- 
+tide;N= total residues per peptide. 
+ysis under the conditions used, values for this residue are lower 
+than expected. 
+Due to incomplete hydrol- 
+ND = not determined. 
+TRYPTIC DIGEST 
+1 
+16-1 
+I 
+I 
+1 
+TIME (MINUTES) 
+Y 
+2 3 4 5 6 
+8 9 IO il 12 13 14 15 16 I7 
+FIGURE 3: HPLC of a tryptic digest of CNBr e’ (pool of peaks 1-4, 
+Figure 2). Sixty-five microliters of sample (1 mg/mL) was applied 
+to a pBondapak C-18 column. Separation of peptides was obtained 
+by using linear gradient elution from 12.5% to 45% acetonitrile over 
+a period of 15 min. Both solvents contained 0.1% phosphoric acid. 
+Pressure, 1400 psi; flow rate, 2 mL/min; UV detector, 225 nm; AUFS, 
+0.4. 
+and Te were obtained in too low a yield to give satisfactory 
+amino acid compositions. The amino acid composition of the 
+other tryptic peptides is shown in Table I. Ta, Tg, and Ti 
+probably were formed as a result of contaminating chymo- 
+tryptic activity in the trypsin preparation. Peptide Ti is evi- 
+dently included in Tg. Peptide Th had the same amino acid 
+composition as Tf, and we therefore presume that they have 
+essentially the same sequence. Most likely the two peptides 
+differ in the degree of amidation of Asp and/or Glu residues 
+(see paragraph at end of paper regarding supplementary 
+material). 
+The sequence of Tf was established by dansyl-Edman 
+analysis (Figure 4). The majority of the steps were confirmed 
+by amino acid analysis after back-hydrolysis of the PTH de- 
+rivatives. Gln-23 and Glu-27 were determined by thin-layer 
+chromatography of the PTH-amino acids. Since the dansyl 
+derivatives of His and Arg could not be readily distinguished 
+by thin-layer chromatography, His was identified in position 
+2 by back-hydrolysis and amino acid analysis of the PTH 
+derivative; Arg-38 was positioned by exclusion. 
+Amino A c i d  S e q u e n c e  of CNBr e ‘ [ T ‘  C h a i n :  
+1 
+5 
+10 
+1 5  
+Lys-Ile-Ile-Pro-Phe-Asn-Arg-Leu~r-Ile-Gly-Glu-Gly-Gln-Gln- 
+-
+T
+a
+d
+ 
+L T a -  
+I 
+T C  
+~ 
+20 
+2 5  
+3c 
+Eia-8i~-~u-Gly-Gly-Ala-Lys~ln-Val~-Pm-Glu-Eis-Pm-Ala- 
+T f  
+3 5  
+40 
+G1x-Thr~lx~r-Asx-Ser-leu-Aeg-Pro-G1x-Asx-Asx-Leg 
+Amino A c i d  S e q u e n c e  of C N B K  e 
+( T  c h a i n )  
+T a k a g i  and D o o l i t t l e ,  1 9 7 5 )  
+( S h a r p  et a l . ,  1 9 7 2 :  
+*LA 
+1 
+2 5  
+LYE 
+.c 
+”‘ 
+Ala-Gly-Asp-Val 
+15 
+22 
+FIGURE 4: Comparison of amino acid sequences of CNBr e’ and CNBr 
+e. Residues 1-23 of CNBr e are the same as shown for CNBr e’. 
+The known cross-linking acceptor (XL,) and donor (XLD) sites are 
+indicated on CNBr e. 
+Discussion 
+Our previous studies (Wolfenstein-Todel & Mosesson, 1980) 
+showed that the y’ chain had an extended COOH-terminal 
+sequence relative to y chains and suggested that the y’ se- 
+quence was the same as that of the y chain from “,-terminal 
+tyrosine to at least as far as the lysine donor cross-linking site 
+that is located five residues from the y chain COOH-terminus. 
+In this study we have determined by sequence analysis of 
+CNBr e’ that the y’ chain is identical with the y chain up to 
+four residues from the y chain COOH-terminus (corre- 
+sponding to residue 23 of CNBr e’; Figure 4). Beyond this 
+point the sequence is unique to the y’ chain and is rich in 
+aspartic acid and glutamic acid (some of these residues may 
+be amidated). The presence of these acidic residues accounts 
+for the difference in charge between y and y’ chains (Mosesson 
+et al., 1972; Stathakis et al., 1978). 
+Analysis of mutant y chains (y Paris I) from a congenitally 
+dysfunctional fibrinogen molecule (fibrinogen Paris I) showed 
+that both y and y’ features were expressed in the mutant y 
+chains (Stathakis et al., 1978). This finding implies that both 
+chains are produced from a single gene, since otherwise it 
+would be necessary to postulate that an identical mutation had 
+occurred in two separate genes (e.g., y and y’), a less likely 
+possibility. 
+If the “single gene” hypothesis is assumed to be correct, 
+there are several possible explantations for the occurence of 
+y’ chains. On the basis of our present sequence data, it seems 
+highly improbable that the y’ chain represents a naturally 
+occurring “read through” protein (Korner et al., 1979) or an 
+unprocessed “precursor” of y chains, since in both cases the 
+COOH-terminal sequence of the y chain would be completed 
+and then followed by additional amino acids. This is not the 
+case since the last four amino acids of the y chain are replaced 
+in y‘ chains by a unique 20-residue fragment. We suggest 
+from these findings that different mRNAs for y and y’ chains, 
+respectively, are transcribed from a single gene by differential 
+RNA splicing (Darnell, 1979). This explanation corresponds 
+to that which has been proposed to account for the existence 
+of membrane-bound and secreted forms of immunoglobulin 
+p chains, which differ from one another only by their 
+COOH-terminal sequences (Singer et al., 1980; Early et al., 
+1980; Alt et al., 1980). In view of the apparently widespread 
+Occurrence of y/y’ variants among mammalian species (Fin- 
+layson & Mosesson, 1964), we believe that this heterogeneity 
+reflects important physiological differentiation of y chains, 
+although their exact nature remains to be discovered. 
+Biochemistry 1981, 20, 6149-6155 
+6149 
+Acknowledgments 
+We thank Joseph Maniscalco for expert technical assistance 
+and Nancy Mingoia for excellent secretarial assistance. We 
+are also grateful to Drs. J. Koehn, J. D. Broome, and E. 
+Gaetjens for the use of their HPLC equipment. 
+Supplementary Material Available 
+A table summarizing the basis for amino acid assignments 
+in peptide Tf (1 page). Ordering information is given on any 
+current masthead page. 
+References 
+Alt, F. W., Bothwell, A. L. M., JSnapp, M., Siden, E., Mather, 
+E., Koshland, M., & Baltimore, D. (1980) Cell (Cambridge, 
+Blomback, B., & Blomback, M. (1956) Ark. Kemi 10, 
+Darnell, J. E., Jr. (1979) Prog. Nucleic Acid Res. Mol. Biol. 
+Early, R., Rogers, J., David, M., Calame, K., Bond, M., Wall, 
+R., & Hood, L. (1980) Cell (Cambridge, Mass.) 20, 
+Finlayson, J. S., & Mosesson, M. W. (1963) Biochemistry 2, 
+Finlayson, J. S., & Mosesson, M. W. (1964) Biochim. Bio- 
+Francis, C. W., Marder, V. J., & Martin, S. E. (1980) J. Biol. 
+Galanakis, D. K., Mosesson, M. W., & Stathakis, N. E. (1978) 
+Gray, W. R. (1972) Methods Enzymol. 25, 333-344. 
+Gray, W. R., & Hartley, B. S. (1963) Biochem. J. 89, 59. 
+MUSS.) 20, 293-301. 
+41 5-443. 
+22, 327-353. 
+3 13-3 19. 
+42-46. 
+phys. Acta 82, 415-417. 
+Chem. 255, 5599-5604. 
+J. Lab. Clin. Med. 92, 376-386. 
+Gross, E., & Witkop, B. (1962) J. Biol. Chem. 237, 
+Hancock, W. S., Bishop, C. A., Prestidge, R. L., Harding, D. 
+R. K., & Hearn, M. T. W. (1978) J. Chromatogr. 153, 
+Henschen, A., Lottspeich, F., Sekita, T., & Warbinek, R. 
+(1976) Hoppe-Seyler's Z .  Physiol. Chem. 357, 605-608. 
+Korner, A. M., Feinstein, S. I., & Altman, S. (1979) in 
+Transfer RNA (Altman, S., Ed.) pp 105-135, MIT Press, 
+Cambridge, MA. 
+Mosesson, M. W., & Finlayson, J. S. (1963) J. Lab. Clin. 
+Med. 62, 663-674. 
+Mosesson, M. W., & Sherry, S .  (1966) Biochemistry 5, 
+Mosesson, M. W., Finlayson, J. S., & Umfleet, R. A. (1972) 
+Mosesson, M. W., Finlayson, J. S., & Galanakis, D. K. (1973) 
+Sharp, J. J., Cassman, K. S., & Doolittle, R. F. (1972) FEBS 
+Singer, P. A., Singer, H. H., & Williamson, A. R. (1980) 
+Stathakis, N. E., Mosesson, M. W., Galanakis, D. K., & 
+Summers, M. R., Smythers, G. W., & Oroszlan, S. (1973) 
+Takagi, T., & Doolittle, R. F. (1975) Biochim. Biophys. Acta 
+Wolfenstein-Todel, C., & Mosesson, M. W. (1980) Proc. Natl. 
+Wolfenstein-Todel, C., & Mosesson, M. W. (1981) Fed. Proc., 
+1856-1860. 
+391-398. 
+2829-283 5, 
+J. Biol. Chem. 247, 5223-5227. 
+J. Biol. Chem. 248, 7913-7929. 
+Lett. 25, 334-336. 
+Nature (London) 285, 294-300. 
+MBnachB, D. (1978) Thromb. Res. 13, 467-475. 
+Anal. Biochem. 53, 624-628. 
+386,6 17-622. 
+Acad. Sci. U.S.A. 77, 5069-5073. 
+Fed. Am. SOC. Exp. Biol. 40, 778. 
+Effects of Temperature and pH on Prothrombin Fragment 1 Conformation 
+As Determined by Nuclear Magnetic Resonance? 
+Carol H. Pletcher,: Elene F. Bouhoutsos-Brown, Robert G. Bryant, and Gary L. Nelsestuen* 
+ABSTRACT: The effects of temperature and pH on the solution 
+conformation of native prothrombin fragment 1 were examined 
+with 'H NMR spectroscopy. A calcium-dependent quenching 
+of the intrinsic protein fluorescence was used to monitor 
+calcium binding to fragment 1 as an indicator of functional 
+protein. The native fragment 1 NMR spectrum contained 
+several features indicative of a folded protein: (a) nonequiv- 
+alent histidyl C-2 resonances at 7.9 and 8.1 ppm, (b) two 
+resonances of nearly equal intensity at 7.26 and 7.32 ppm, and 
+(c) a resonance at -1.04 ppm. Temperature studies showed 
+that thermal unfolding of fragment 1 (even at 80 "C) was 
+Prothrombin is one of a group of extracellular calcium- 
+binding proteins which undergo a vitamin K dependent car- 
+t From the Department of Biochemistry, College of Biological Sci- 
+ences, University of Minnesota, St. Paul, Minnesota 55108 (C.H.P. and 
+G.L.N.), and the Department of Chemistry, University of Minnesota, 
+Minneapolis, Minnesota 55455 (E.F.B.-B. and R.G.B.). Received April 
+2, 1981. This work was supported in part by Grants HL 15728 (to 
+G.L.N.) and GM-25757 (to R.G.B.) from the National Institutes of 
+Health. 
+$National Institutes of Health Postdoctoral Fellow No. 05927. 
+0006-2960/81/0420-6149$01.25/0 
+reversible; however, there was an irreversible inactivation step 
+which occurred subsequent to the unfolding. The basis for this 
+inactivation appeared to include disulfide exchange reactions. 
+On the basis of NMR spectra, fragment 1 retained its con- 
+formation from pH 7.0 to pH 11.5. From pH 7.0 to pH 5.0, 
+the protein showed a reversible conformational change, and 
+below pH 5, the protein self-associated. The pH dependence 
+of the chemical shift of the tyrosyl resonances indicated a pK, 
+of approximately 10 for the tyrosyl residues. These data 
+suggest that the tyrosyl residues are accessible to solvent in 
+the native protein. 
+boxylation of glutamyl residues (Stenflo & Suttie, 1977). The 
+resulting y-carboxyglutamyl residues have been implicated as 
+ligands for calcium in these proteins. Prothrombin fragment 
+1 (prothrombin residues 1-1 56) contains all the y-carboxy- 
+I Abbreviations used: NMR, nuclear magnetic resonance; TSP, so- 
+dium 3-(trimethylsilyl)propionate-2,2,3,3-d4; 
+EDTA, ethylenediamine- 
+tetraacetic acid; fragment 1, prothrombin residues 1-1 56; HPLC, high- 
+performance liquid chromatography. 
+0 
+1981 American Chemical Society 
+

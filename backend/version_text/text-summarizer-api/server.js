@@ -10,25 +10,45 @@ const {spawn} = require('child_process');
 app.use(bodyParser.json());
 
 app.post('/summarize', async (req, res) => {
-    try {
-        const pythonProcess = spawn('python', ['path/to/your/python_script.py']);
+    try { // Spawn a child process to run the Python script
+        const pythonProcess = spawn('python', ['../text_summarizer.py']);
 
-        const dataToSend = JSON.stringify({text, num_sentences});
+        // Send the data to the Python script through stdin
+        const dataToSend = JSON.stringify("saaaample text");
+        // const dataToSend = JSON.stringify({text, num_sentences});
         pythonProcess.stdin.write(dataToSend);
         pythonProcess.stdin.end();
 
+        // Listen for data from the Python script's stdout
         let pythonResponse = '';
         pythonProcess.stdout.on('data', (data) => {
             pythonResponse += data;
         });
 
+        // Listen for errors from the Python script's stderr
         let pythonError = '';
         pythonProcess.stderr.on('data', (data) => {
             pythonError += data;
         });
 
-        pythonProcess.on('close', (code) => { // ... handle the Python script's response and errors
+        // Handle the Python script's exit event
+        pythonProcess.on('close', (code) => {
+            if (code === 0) {
+                try {
+                    const parsedResponse = JSON.parse(pythonResponse);
+                    res.json({summary: parsedResponse.summary});
+                } catch (error) {
+                    console.error('Error parsing Python response:', error);
+                    res.status(500).json({error: 'An error occurred while processing the Python response.'});
+                }
+            } else {
+                console.error('Python process exited with code:', code);
+                console.error('Python error:', pythonError);
+                res.status(500).json({error: 'An error occurred while running the Python script.'});
+            }
         });
+
+
     } catch (error) {
         console.error(error);
         res.status(500).json({error: 'An error occurred.', error});
