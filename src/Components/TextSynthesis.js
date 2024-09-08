@@ -68,7 +68,7 @@ const TextSynthesis = () => {
 
   return (
     <div className="container mt-5">
-      <h1 className="interface-title">Interface de synthèse de texte</h1>
+      <h1 className="interface-title">Résumez en <span className="span">1</span> clic</h1>
       <div className="row">
         <div className="col-md-6">
           <div className="btn-group mb-3" role="group">
@@ -102,12 +102,14 @@ const TextSynthesis = () => {
           </div>
           <div className="form-group">
             <h3>
-              <label htmlFor="textArea">
-                {synthesisType === 'text' ? 'Tapez le texte :' : 'Entrez le lien du fichier :'}
+             <label  htmlFor="textArea">
+               
               </label>
             </h3>
             <textarea
               id="textArea"
+              placeholder={synthesisType === 'text' ? 'copiez-collez ici votre texte' : "copiez-collez ici l'URL de votre fichier"}
+              
               className={`form-control text-input`}
               value={inputValue}
               onChange={handleInputChange}
@@ -120,7 +122,7 @@ const TextSynthesis = () => {
               onClick={handleSubmit}
               disabled={isLoading}
             >
-              {isLoading ? 'En cours...' : 'Synthétiser'}
+              {isLoading ? 'En cours...' : 'cliquez ici'}
             </button>
           </div>
           {errorMessage && <p className="text-danger mt-2">{errorMessage}</p>}
@@ -128,7 +130,7 @@ const TextSynthesis = () => {
         <div className="col-md-6">
           <div className="mt-4">
             <br />
-            <h3>Résultat de la synthèse :</h3>
+            <h3>Résultat:</h3>
             <textarea
               className={`form-control result-textarea`}
               value={synthesizedResult}

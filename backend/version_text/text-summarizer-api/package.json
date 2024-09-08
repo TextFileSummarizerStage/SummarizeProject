@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^1.4.0",
     "express": "^4.18.2",
-    "shelljs": "^0.8.5"
+    "shelljs": "^0.8.5",
+    "text-summarizer-api": "file:"
   }
 }
